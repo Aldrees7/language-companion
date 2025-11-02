@@ -1,0 +1,6 @@
+src/agent_core/.env
+.env
+*.env
+.venv/
+.uv/
+__pycache__/
